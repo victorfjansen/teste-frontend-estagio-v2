@@ -1,0 +1,9 @@
+import Vue from 'vue'
+import VueGoogleMap from 'vuejs-google-maps'
+import 'vuejs-google-maps/dist/vuejs-google-maps.css'
+
+Vue.use(VueGoogleMap, {
+  load: {
+    apiKey: 'AIzaSyA2LWZxYXnchfaUMO4bIxAB_SOI6cIobks',
+  },
+})
