@@ -14,3 +14,5 @@ Na api que forneceram, tive um problema em fazer as requisições diretamente de
 
 Como framework CSS "utilizei" o Ant-design, porém, como será observado, apenas utilizei para alguns componentes. Fiz 80% dos componentes na mão.
 Escolhi usar o Atômic Design para organização de pastas também.
+
+Utilizei também o Vuex-Module-decorators para as stores do vue. Acho menos verboso e mais tranquilo de se mexer e configurar as stores.
